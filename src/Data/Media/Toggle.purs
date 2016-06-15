@@ -55,7 +55,6 @@ instance toggleBooleanAlgebra :: BooleanAlgebra Toggle where
   disj One  Zero = One
   disj _    _    = Zero
 
-  conj Zero Zero  = One
   conj One  One   = One
   conj _    _     = Zero
 
