@@ -1,0 +1,4 @@
+# Notes
+
+youtube:
+- https://developers.google.com/youtube/player_parameters#start
