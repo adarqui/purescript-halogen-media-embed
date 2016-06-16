@@ -1,5 +1,5 @@
 {
-  "name": "purescript-halogen-media-embed",
+  "name": "purescript-media-embed",
   "ignore": [
     "**/.*",
     "node_modules",
